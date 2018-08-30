@@ -1,0 +1,18 @@
+{
+  "name": "TransactionsAppBackEnd",
+  "description": "Emotional Transaction Feed",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jose Ant. Ayllon <joseayllonll@hotmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "^2.0.8",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "morgan": "^1.9.0",
+    "app-root-path": "^2.1.0"
+  }
+}
